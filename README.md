@@ -102,7 +102,8 @@ Lower values indicate better value-for-money.
 
 ## Dashboard
 
-&lt;img width="613" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/9a16d01d-a420-4ac4-b3f5-9df675044752" /&gt;
+<img width="613" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/745a9125-1c77-4e2e-86d7-8790e292451a" />
+
 
 ---
 
@@ -110,8 +111,9 @@ Lower values indicate better value-for-money.
 
 ### 1. Price to Specs ratio Top 10 (2014 / 2025)
 
-&lt;img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/d8796e17-daab-4245-a543-73ea17a4f105" /&gt;
-&lt;img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/e43fedad-3e73-4a70-850b-beaa1b49ef21" /&gt;
+<img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/34008787-6b0d-4f54-b0c3-1d25309d0771" />
+
+<img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/694316dd-1845-4f12-9a8f-6cbcf8b3c722" />
 
 The scatter plot reveals a clear positive correlation between Specs Score and launch price across all tiers, but with significant variance. Budget devices (blue) cluster tightly along a steeper value line, while Flagship devices (orange) show wider price dispersion at similar spec levels—suggesting brand premium pricing rather than hardware-driven costs. Mid-range devices (grey) occupy the middle ground, offering a compromise between the two.
 
@@ -120,7 +122,8 @@ The scatter plot reveals a clear positive correlation between Specs Score and la
 
 ### 2. Best Value Smartphone Brands
 
-&lt;img width="629" height="340" alt="Best Value By Brand" src="https://github.com/user-attachments/assets/5c378c81-8723-42c7-9474-fe4f45eab3e1" /&gt;
+<img width="629" height="340" alt="Best Value By Brand" src="https://github.com/user-attachments/assets/69b4ffaa-1e67-438a-ae2f-92e0562396ba" />
+
 
 1. iQOO
 2. Realme
@@ -130,7 +133,7 @@ The scatter plot reveals a clear positive correlation between Specs Score and la
 
 ### 3. Flagship Smartphones Deliver Lower Value
 
-&lt;img width="634" height="341" alt="Chipset Value Ranking" src="https://github.com/user-attachments/assets/cf9daf17-3ee9-4357-bb3c-c1415402360d" /&gt;
+<img width="634" height="341" alt="Chipset Value Ranking" src="https://github.com/user-attachments/assets/0fe1841c-5555-450e-b75d-84b9191b836b" />
 
 | Tier | Ratio |
 |--------|--------|
@@ -142,11 +145,9 @@ Flagship devices cost approximately 81% more per hardware point than budget devi
 
 ### 4. Hardware Improvements Outpaced Price Inflation
 
-&lt;img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/e6e45b22-df01-4401-8b5e-a944798ded2e" /&gt;
-
-&lt;img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/b8f78df6-f86c-4c05-b3fa-4fca2f3cb748" /&gt;
-
-&lt;img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/9a5089f9-9043-49d6-aa76-71239a4523bf" /&gt;
+<img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/ec13c428-de45-4bb2-a6c0-7f4a5956573f" />
+<img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/ed218b71-daac-4350-b803-2a14665ef905" />
+<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/abd01380-7296-4f96-b48f-b20f8500e7f8" />
 
 Hardware specifications improved faster than smartphone prices, resulting in better overall consumer value.
 
