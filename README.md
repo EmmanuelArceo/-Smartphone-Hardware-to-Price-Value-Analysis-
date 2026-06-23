@@ -111,7 +111,7 @@ Lower values indicate better value-for-money.
 
 ### 1. Price to Specs ratio Top 10 (2014 / 2025)
 
-<img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/34008787-6b0d-4f54-b0c3-1d25309d0771" />
+<img width="637" height="323" alt="Price to Specs ratio top 10" src="https://github.com/user-attachments/assets/34008787-6b0d-4f54-b0c3-1d25309d0771" />
 
 <img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/694316dd-1845-4f12-9a8f-6cbcf8b3c722" />
 
