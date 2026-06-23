@@ -104,7 +104,8 @@ Lower values indicate better value-for-money.
 ---
 
 ## Dashboard
-https://github.com/EmmanuelArceo/-Smartphone-Hardware-to-Price-Value-Analysis-/blob/main/dashboard.PNG
+
+<img width="613" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/9a16f01d-a420-4ac4-b3f5-9df675044752" />
 
 ---
 
