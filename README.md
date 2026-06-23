@@ -1,7 +1,5 @@
 # 📱 Smartphone Hardware-to-Price Value Analysis
 
-![Uploading image.png…]()
-
 
 ## Objective
 
@@ -107,7 +105,6 @@ Lower values indicate better value-for-money.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
 
 ---
 
