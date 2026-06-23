@@ -147,7 +147,7 @@ Flagship devices cost approximately 81% more per hardware point than budget devi
 
 <img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/ec13c428-de45-4bb2-a6c0-7f4a5956573f" />
 <img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/ed218b71-daac-4350-b803-2a14665ef905" />
-<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/abd01380-7296-4f96-b48f-b20f8500e7f8" />
+<img width="633" height="405" alt="Price Inflation avg" src="https://github.com/user-attachments/assets/abd01380-7296-4f96-b48f-b20f8500e7f8" />
 
 Hardware specifications improved faster than smartphone prices, resulting in better overall consumer value.
 
