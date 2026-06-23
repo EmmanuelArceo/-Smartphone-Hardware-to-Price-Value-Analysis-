@@ -95,7 +95,8 @@ Higher scores indicate stronger overall hardware specifications.
 
 ### Price-to-Specs Ratio
 
-Formula:
+Formula:<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/5abbf740-000f-46e9-a032-758364a8b834" />
+
 
 Price ÷ Specs Score
 
@@ -113,10 +114,14 @@ Lower values indicate better value-for-money.
 
 ### 1. Smartphone Value Improved Significantly Over Time
 
+<img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/a027674c-89c3-40cb-9ca4-690caafe98e0" />
+
 - Price-to-Specs Ratio decreased from 42.86 in 2014 to 9.72 in 2025.
 - Hardware value improved by approximately 77%.
 
 ### 2. Best Value Smartphone Brands
+
+<img width="629" height="340" alt="Best Value By Brand" src="https://github.com/user-attachments/assets/5c378c81-8723-42c7-9474-fe4f45eab3e1" />
 
 1. iQOO
 2. Realme
@@ -125,6 +130,8 @@ Lower values indicate better value-for-money.
 5. Xiaomi
 
 ### 3. Flagship Smartphones Deliver Lower Value
+
+<img width="634" height="341" alt="Chipset Value Ranking" src="https://github.com/user-attachments/assets/cf9daf17-3ee9-4357-bb3c-c1415402360d" />
 
 | Tier | Ratio |
 |--------|--------|
@@ -135,6 +142,13 @@ Lower values indicate better value-for-money.
 Flagship devices cost approximately 81% more per hardware point than budget devices.
 
 ### 4. Hardware Improvements Outpaced Price Inflation
+
+<img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/e6e45b22-df01-4401-8b5e-a944798ded2e" />
+
+<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/b8f78df6-f86c-4c05-b3fa-4fca2f3cb748" />
+
+<img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/9a5089f9-9043-49d6-aa76-71239a4523bf" />
+
 
 Hardware specifications improved faster than smartphone prices, resulting in better overall consumer value.
 
