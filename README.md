@@ -112,9 +112,12 @@ Lower values indicate better value-for-money.
 
 ## Key Findings
 
-### 1. Smartphone Value Improved Significantly Over Time
+### 1. Price to Specs ratio Top 10 (2014 / 2025)
 
-<img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/a027674c-89c3-40cb-9ca4-690caafe98e0" />
+<img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/d8796e17-daab-4245-a543-73ea17a4f105" />
+<img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/e43fedad-3e73-4a70-850b-beaa1b49ef21" />
+
+
 
 - Price-to-Specs Ratio decreased from 42.86 in 2014 to 9.72 in 2025.
 - Hardware value improved by approximately 77%.
