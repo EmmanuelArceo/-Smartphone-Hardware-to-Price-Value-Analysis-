@@ -1,6 +1,5 @@
 # 📱 Smartphone Hardware-to-Price Value Analysis
 
-
 ## Objective
 
 Analyze smartphone value-for-money across 930 smartphone models released between 2014 and 2025 by comparing launch prices against a custom hardware scoring model.
@@ -103,7 +102,7 @@ Lower values indicate better value-for-money.
 
 ## Dashboard
 
-<img width="613" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/9a16f01d-a420-4ac4-b3f5-9df675044752" />
+&lt;img width="613" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/9a16d01d-a420-4ac4-b3f5-9df675044752" /&gt;
 
 ---
 
@@ -111,17 +110,17 @@ Lower values indicate better value-for-money.
 
 ### 1. Price to Specs ratio Top 10 (2014 / 2025)
 
-<img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/d8796e17-daab-4245-a543-73ea17a4f105" />
-<img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/e43fedad-3e73-4a70-850b-beaa1b49ef21" />
+&lt;img width="637" height="323" alt="Price to Specs ration top 10" src="https://github.com/user-attachments/assets/d8796e17-daab-4245-a543-73ea17a4f105" /&gt;
+&lt;img width="637" height="345" alt="Scatter Plot Tier Ranking" src="https://github.com/user-attachments/assets/e43fedad-3e73-4a70-850b-beaa1b49ef21" /&gt;
 
-
+The scatter plot reveals a clear positive correlation between Specs Score and launch price across all tiers, but with significant variance. Budget devices (blue) cluster tightly along a steeper value line, while Flagship devices (orange) show wider price dispersion at similar spec levels—suggesting brand premium pricing rather than hardware-driven costs. Mid-range devices (grey) occupy the middle ground, offering a compromise between the two.
 
 - Price-to-Specs Ratio decreased from 42.86 in 2014 to 9.72 in 2025.
 - Hardware value improved by approximately 77%.
 
 ### 2. Best Value Smartphone Brands
 
-<img width="629" height="340" alt="Best Value By Brand" src="https://github.com/user-attachments/assets/5c378c81-8723-42c7-9474-fe4f45eab3e1" />
+&lt;img width="629" height="340" alt="Best Value By Brand" src="https://github.com/user-attachments/assets/5c378c81-8723-42c7-9474-fe4f45eab3e1" /&gt;
 
 1. iQOO
 2. Realme
@@ -131,7 +130,7 @@ Lower values indicate better value-for-money.
 
 ### 3. Flagship Smartphones Deliver Lower Value
 
-<img width="634" height="341" alt="Chipset Value Ranking" src="https://github.com/user-attachments/assets/cf9daf17-3ee9-4357-bb3c-c1415402360d" />
+&lt;img width="634" height="341" alt="Chipset Value Ranking" src="https://github.com/user-attachments/assets/cf9daf17-3ee9-4357-bb3c-c1415402360d" /&gt;
 
 | Tier | Ratio |
 |--------|--------|
@@ -143,14 +142,22 @@ Flagship devices cost approximately 81% more per hardware point than budget devi
 
 ### 4. Hardware Improvements Outpaced Price Inflation
 
-<img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/e6e45b22-df01-4401-8b5e-a944798ded2e" />
+&lt;img width="633" height="329" alt="Hardware improvement" src="https://github.com/user-attachments/assets/e6e45b22-df01-4401-8b5e-a944798ded2e" /&gt;
 
-<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/b8f78df6-f86c-4c05-b3fa-4fca2f3cb748" />
+&lt;img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/b8f78df6-f86c-4c05-b3fa-4fca2f3cb748" /&gt;
 
-<img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/9a5089f9-9043-49d6-aa76-71239a4523bf" />
-
+&lt;img width="631" height="336" alt="Smartphone Value Trend" src="https://github.com/user-attachments/assets/9a5089f9-9043-49d6-aa76-71239a4523bf" /&gt;
 
 Hardware specifications improved faster than smartphone prices, resulting in better overall consumer value.
+
+---
+
+## Data Limitations
+
+- **Specs Score Weighting:** The custom Specs Score applies equal implicit weighting to RAM, storage, processor, camera, battery, and display. Real-world user value may vary (e.g., a photography-focused user might prioritize camera over battery).
+- **Missing Variables:** Build quality, software update longevity, brand ecosystem, and after-sales support are not captured in the hardware score.
+- **Launch Price Only:** Prices reflect launch MSRP and do not account for depreciation, discounts, or regional tax variations.
+- **Processor Tier Assignment:** Processors were categorized into tiers rather than using benchmark scores, which may obscure performance differences within tiers.
 
 ---
 
@@ -201,3 +208,9 @@ Promote value-oriented brands such as iQOO, Realme, POCO, and Infinix to cost-co
 This project demonstrates how data analytics can be used to evaluate product value beyond simple price comparisons.
 
 By developing a custom Specs Score and Price-to-Specs Ratio, I identified which smartphone brands, models, and market segments deliver the strongest value while uncovering long-term trends in smartphone pricing and hardware development.
+
+---
+
+## Next Steps
+
+This analysis establishes a baseline for hardware-to-price value. The next phase of this research will explore **Regional Price Comparison**—analyzing how smartphone pricing, taxes, and availability vary across global markets for the same device models.
